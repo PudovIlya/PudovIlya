@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning Python and basics of backend development. 
+I'm currently learning Python and basics of backend development.
+
 Well, any help would be appreciated!🌱🌱🌱
