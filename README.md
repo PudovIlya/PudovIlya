@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!
 
 <!--
 **PudovIlya/PudovIlya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ I'm currently learning:
 - [ ] ***Python***;
 - [ ] **Basics of _backend development_**.
 
-Well, any help would be appreciated!🌱🌱🌱
+Well, any help would be appreciated! Vale.
