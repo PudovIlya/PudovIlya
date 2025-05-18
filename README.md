@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm currently learning:
 - [ ] ***Python***;
-- [ ] **Basics of _backend development_**.
+- [ ] **Basics of _backend development_**;
+- [ ] Linux;
+- [ ] Git basics.
 
 Well, any help would be appreciated! Vale.
